@@ -1,0 +1,11 @@
+supplier_id,supplier_name,contact_person,phone,email,city,country,lead_time_days
+SUP001,Sun Pharma Distributors,Rahul Sharma,9876543210,rahul@sunpharma.com,Mumbai,India,5
+SUP002,Cipla Medical Supplies,Priya Nair,9812345678,priya@cipla.com,Pune,India,4
+SUP003,Dr. Reddy's Logistics,Anil Kumar,9823456789,anil@drreddys.com,Hyderabad,India,6
+SUP004,Abbott HealthCare,Sarah Thomas,9834567890,sarah@abbott.com,Delhi,India,7
+SUP005,Pfizer India Ltd,Vikram Patel,9845678901,vikram@pfizer.com,Ahmedabad,India,8
+SUP006,Lupin Pharmaceuticals,Kavita Rao,9856789012,kavita@lupin.com,Goa,India,5
+SUP007,Mankind Pharma,Rajesh Gupta,9867890123,rajesh@mankind.com,Kolkata,India,3
+SUP008,Alkem Laboratories,Deepa Singh,9878901234,deepa@alkem.com,Chennai,India,6
+SUP009,Torrent Pharma,Suresh Mehta,9889012345,suresh@torrent.com,Bangalore,India,4
+SUP010,Biocon Biologics,Anjali Shah,9890123456,anjali@biocon.com,Mysore,India,10

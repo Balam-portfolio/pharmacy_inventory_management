@@ -1,0 +1,51 @@
+medicine_id,medicine_name,generic_name,category,dosage_form,strength,unit_price,requires_prescription,storage_condition
+MED001,Amoxicillin 500mg Capsules,Amoxicillin,Antibiotic,Capsule,500mg,12.5,1,Room Temperature
+MED002,Paracetamol 500mg Tablets,Paracetamol,Painkiller,Tablet,500mg,5,0,Room Temperature
+MED003,Metformin 500mg Tablets,Metformin,Antidiabetic,Tablet,500mg,8.75,1,Room Temperature
+MED004,Atorvastatin 10mg Tablets,Atorvastatin,Cholesterol,Tablet,10mg,15,1,Room Temperature
+MED005,Omeprazole 20mg Capsules,Omeprazole,Antacid,Capsule,20mg,9,1,Room Temperature
+MED006,Azithromycin 250mg Tablets,Azithromycin,Antibiotic,Tablet,250mg,22,1,Room Temperature
+MED007,Ibuprofen 400mg Tablets,Ibuprofen,NSAID,Tablet,400mg,6.5,0,Room Temperature
+MED008,Cetirizine 10mg Tablets,Cetirizine,Antihistamine,Tablet,10mg,4.5,0,Room Temperature
+MED009,Amlodipine 5mg Tablets,Amlodipine,Antihypertensive,Tablet,5mg,11,1,Room Temperature
+MED010,Insulin Glargine 100U/ml,Insulin Glargine,Antidiabetic,Injection,100U/ml,280,1,Refrigerated
+MED011,Salbutamol Inhaler 100mcg,Salbutamol,Bronchodilator,Inhaler,100mcg,45,1,Room Temperature
+MED012,Lisinopril 10mg Tablets,Lisinopril,Antihypertensive,Tablet,10mg,13,1,Room Temperature
+MED013,Pantoprazole 40mg Tablets,Pantoprazole,Antacid,Tablet,40mg,10.5,1,Room Temperature
+MED014,Vitamin D3 1000IU Tablets,Cholecalciferol,Vitamin,Tablet,1000IU,7,0,Room Temperature
+MED015,Ciprofloxacin 500mg Tablets,Ciprofloxacin,Antibiotic,Tablet,500mg,18,1,Room Temperature
+MED016,Losartan 50mg Tablets,Losartan,Antihypertensive,Tablet,50mg,14,1,Room Temperature
+MED017,Fluconazole 150mg Capsules,Fluconazole,Antifungal,Capsule,150mg,25,1,Room Temperature
+MED018,Dexamethasone 4mg Injection,Dexamethasone,Corticosteroid,Injection,4mg/ml,35,1,Room Temperature
+MED019,Ranitidine 150mg Tablets,Ranitidine,Antacid,Tablet,150mg,6,0,Room Temperature
+MED020,Clopidogrel 75mg Tablets,Clopidogrel,Antiplatelet,Tablet,75mg,20,1,Room Temperature
+MED021,Vitamin B12 500mcg Tablets,Cyanocobalamin,Vitamin,Tablet,500mcg,8,0,Room Temperature
+MED022,Amitriptyline 25mg Tablets,Amitriptyline,Antidepressant,Tablet,25mg,9.5,1,Room Temperature
+MED023,Metronidazole 400mg Tablets,Metronidazole,Antibiotic,Tablet,400mg,7.5,1,Room Temperature
+MED024,Prednisolone 5mg Tablets,Prednisolone,Corticosteroid,Tablet,5mg,11.5,1,Room Temperature
+MED025,Folic Acid 5mg Tablets,Folic Acid,Vitamin,Tablet,5mg,3.5,0,Room Temperature
+MED026,Tramadol 50mg Capsules,Tramadol,Opioid Analgesic,Capsule,50mg,30,1,Room Temperature
+MED027,Ondansetron 4mg Tablets,Ondansetron,Antiemetic,Tablet,4mg,16,1,Room Temperature
+MED028,Glibenclamide 5mg Tablets,Glibenclamide,Antidiabetic,Tablet,5mg,7,1,Room Temperature
+MED029,Ceftriaxone 1g Injection,Ceftriaxone,Antibiotic,Injection,1g,85,1,Room Temperature
+MED030,Aspirin 75mg Tablets,Aspirin,Antiplatelet,Tablet,75mg,4,0,Room Temperature
+MED031,Erythromycin 500mg Tablets,Erythromycin,Antibiotic,Tablet,500mg,19,1,Room Temperature
+MED032,Furosemide 40mg Tablets,Furosemide,Diuretic,Tablet,40mg,5.5,1,Room Temperature
+MED033,Diazepam 5mg Tablets,Diazepam,Anxiolytic,Tablet,5mg,12,1,Room Temperature
+MED034,Naproxen 250mg Tablets,Naproxen,NSAID,Tablet,250mg,8.5,0,Room Temperature
+MED035,Iron Supplement 200mg,Ferrous Sulphate,Supplement,Tablet,200mg,4.5,0,Room Temperature
+MED036,Calcium + Vitamin D3 Tablet,Calcium Carbonate,Supplement,Tablet,500mg+200IU,6.5,0,Room Temperature
+MED037,Rabeprazole 20mg Tablets,Rabeprazole,Antacid,Tablet,20mg,11,1,Room Temperature
+MED038,Sertraline 50mg Tablets,Sertraline,Antidepressant,Tablet,50mg,22,1,Room Temperature
+MED039,Levofloxacin 500mg Tablets,Levofloxacin,Antibiotic,Tablet,500mg,28,1,Room Temperature
+MED040,Warfarin 5mg Tablets,Warfarin,Anticoagulant,Tablet,5mg,18,1,Room Temperature
+MED041,Multivitamin Syrup 200ml,Multivitamin,Vitamin,Syrup,200ml,55,0,Room Temperature
+MED042,Cough Syrup 100ml,Dextromethorphan,Cough Suppressant,Syrup,100ml,38,0,Room Temperature
+MED043,Antacid Suspension 200ml,Magnesium Hydroxide,Antacid,Syrup,200ml,32,0,Room Temperature
+MED044,Digoxin 0.25mg Tablets,Digoxin,Cardiac Glycoside,Tablet,0.25mg,9,1,Room Temperature
+MED045,Phenytoin 100mg Tablets,Phenytoin,Anticonvulsant,Tablet,100mg,10,1,Room Temperature
+MED046,Morphine 10mg Injection,Morphine,Opioid Analgesic,Injection,10mg/ml,95,1,Room Temperature
+MED047,Hydrocortisone Cream 1%,Hydrocortisone,Corticosteroid,Cream,1%,28,0,Room Temperature
+MED048,Clotrimazole Cream 1%,Clotrimazole,Antifungal,Cream,1%,22,0,Room Temperature
+MED049,Eye Drops Ciprofloxacin 0.3%,Ciprofloxacin,Antibiotic,Eye Drops,0.30%,35,1,Room Temperature
+MED050,Oral Rehydration Salts,ORS,Electrolyte,Powder,Sachet,3.5,0,Room Temperature
